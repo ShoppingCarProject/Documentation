@@ -1,7 +1,10 @@
-#ARQUITECTURE 
+# ENDPOINTS
+![image](https://user-images.githubusercontent.com/58859695/201439599-6840d65b-6907-4afb-a3d5-f67eb0707ef4.png)
+
+# ARQUITECTURE 
 ![image](https://user-images.githubusercontent.com/58859695/201437570-66750578-db89-4237-af65-4617d3227b61.png)
 
-#How to star cus-shopping-car-service
+# How to star cus-shopping-car-service
 
 `git clone https://github.com/ShoppingCarProject/cus-shopping-car-service.git`
 
@@ -42,7 +45,7 @@ and we are going to have the database in my own mysql
 
 # It's All! for this project 
 
-#How to star cus-security-service
+# How to star cus-security-service
 
 `git clone https://github.com/ShoppingCarProject/cus-security-service.git`
 
