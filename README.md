@@ -1,3 +1,7 @@
+#GIT FLOW 
+
+I use a master for the final version, and the branch develop for do fix and develop the solution.
+
 # ENDPOINTS
 ![image](https://user-images.githubusercontent.com/58859695/201439599-6840d65b-6907-4afb-a3d5-f67eb0707ef4.png)
 
